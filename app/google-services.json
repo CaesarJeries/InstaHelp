@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "103886302676",
+    "firebase_url": "https://instahelp-1303.firebaseio.com",
+    "project_id": "instahelp-1303",
+    "storage_bucket": "instahelp-1303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103886302676:android:4c85d8be81fba703",
+        "android_client_info": {
+          "package_name": "project.com.instahelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103886302676-t7v3o3snearpg92e68p7m39b6h798vc6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "103886302676-urs094fnd9h7bocodeblovtbk1lipekq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "103886302676-vicean6e8lvsq7aqta5mie76nuqiti3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.com.instahelp",
+            "certificate_hash": "274ac55c5da53a168b73c407ea8446f3382ee9e9"
+          }
+        },
+        {
+          "client_id": "103886302676-i85ncchrmqrk4o30hd0j9r8q2mnviapr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodko81tIme0bzUVLzeTnFRFfPj_RDj6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103886302676:android:9e65faf4afe6d531",
+        "android_client_info": {
+          "package_name": "project.com.instahelp.GooglePlusLogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103886302676-t7v3o3snearpg92e68p7m39b6h798vc6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "103886302676-urs094fnd9h7bocodeblovtbk1lipekq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "103886302676-i85ncchrmqrk4o30hd0j9r8q2mnviapr.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "103886302676-v9774g1lbqtba7upjuku61cg9q4fbvu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.com.instahelp.GooglePlusLogin",
+            "certificate_hash": "274ac55c5da53a168b73c407ea8446f3382ee9e9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodko81tIme0bzUVLzeTnFRFfPj_RDj6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

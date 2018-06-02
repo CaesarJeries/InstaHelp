@@ -1,0 +1,113 @@
+<resources>
+
+    // Application attributes
+    <string name="app_name">InstaHelp</string>
+    <string name="facebook_app_id" translatable="false">1728853870718403</string>
+
+    <!-- Button labels -->
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="actionBar_logout">Logout</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone_number">Phone number</string>
+    <string name="enter_phone_number">Please enter your phone number</string>
+
+    <string-array name="requests_array">
+        <item>My Requests</item>
+        <item>Pending Requests</item>
+    </string-array>
+
+    <!-- AppBar buttons -->
+    <string name="sync_button">Sync</string>
+
+    <!-- AddPost strings -->
+    <string name="add_post_title_hint">Enter title...</string>
+    <string name="add_post_content_hint">Say something...</string>
+    <string name="show_my_phone_number">Show my phone number</string>
+    <string name="show_my_location">Show my location</string>
+    <string name="add_new_post">Post</string>
+    <string name="add_post_title_error">Please enter a title</string>
+    <string name="add_post_content_error">Please enter a description</string>
+
+
+    <!-- view post strings -->
+    <string name="view_post_time">Time</string>
+    <string name="view_post_people_offered_help">people offerd help</string>
+    <string name="view_post_offer_help">Offer help</string>
+    <string name="view_post_mark_done">Mark as done</string>
+    <string name="view_post_delete">Delete</string>
+    <string name="delete_post_alert_content">Are you sure you want to delete this post?</string>
+    <string name="delete_post_alert_title">Please confirm deletion</string>
+    <string name="view_post_cancel_help_offer">Withdraw help offer</string>
+    <string name="post_distance">Distance</string>
+    <string name="distance_units">Meters</string>
+    <string name="poster">Poster</string>
+
+    <!-- fragment labels -->
+
+    <string name="profile_fragment_label">My Profile</string>
+    <string name="feed_fragment_label">Feed</string>
+    <string name="requests_fragment_label">Requests</string>
+    <string name="notifications_fragment_label">Notifications</string>
+    <string name="chat_fragment_label">Chats</string>
+
+    <!-- fragment strings -->
+    <string name="empty_list_view">Nothing to show.</string>
+    <string name="add_post_time">Set time</string>
+    <string name="add_post_date">Set date</string>
+    <string name="add_post_time_error">Selected time is in the past</string>
+    <string name="add_post_date_error">Selected date is in the past</string>
+    <string name="phone_number_edit_dialog">Please enter new phone number</string>
+    <string name="phone_number_edit_dialog_title">Edit phone number</string>
+    <string name="user_name_edit_dialog">Please enter new user name</string>
+    <string name="user_name_edit_dialog_title">Edit user name</string>
+    <string name="update_user_name_dialog_error">User name must only contain letters</string>
+    <string name="user_name_hint">User name</string>
+    <string name="rank">Rank</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="add_to_calendar">Add to calendar</string>
+
+    <!-- Alert dialogs strings -->
+    <string name="rank_info_title">Rank Information</string>
+
+    <string name="log_out_alert_title">Logout confirmation</string>
+    <string name="log_out_alert_content">Are you sure you want to logout from InstaHelp?</string>
+    <string name="log_out_alert_button_label">Logout</string>
+
+
+    <string name="gps_alert_title">GPS error</string>
+    <string name="gps_alert_content">Please turn on your location services</string>
+
+    <string name="no_internet_alert_title">No Internet Connection</string>
+    <string name="no_internet_alert_content">Please check your internet connection</string>
+
+    <string name="phone_handshake_alert_title">Phone number is private</string>
+    <string name="phone_handshake_alert_content">
+        This user has chosen to keep their phone number private.
+        Do you want to request phone number?
+    </string>
+
+    <!-- list view strings -->
+    <string name="help_offers_title">People who want to help you</string>
+    <string name="post_title">Post Title</string>
+    <string name="post_content">Content</string>
+    <string name="post_location">Location</string>
+    <string name="post_you_chose">You chose:</string>
+    <string name="post_chosen_user">Chosen user</string>
+
+    <!-- notifications strings -->
+
+    <string name="request_phone">Requested your phone number</string>
+    <string name="response_phone_denied" >Declined to share phone number</string>
+    <string name="response_phone_granted" >Granted access to phone number</string>
+    <string name="help_offer_notification">Has offered help</string>
+    <string name="the_user">The user</string>
+
+    <!-- ChatLocationMessage strings -->
+    <string name="location">Location</string>
+
+
+</resources>

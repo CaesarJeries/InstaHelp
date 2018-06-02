@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginBottom="@dimen/activity_vertical_margin"
+    >
+
+    <TextView
+        android:id="@+id/row_post_user_id"
+        style="@style/InvisibleTextView"/>
+
+    <TextView
+        android:id="@+id/row_post_post_id"
+        style="@style/InvisibleTextView"/>
+
+
+    <utils.gui.CircleImageView
+        android:id="@+id/row_post_image"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginEnd="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="5dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        >
+
+        <TextView
+            android:id="@+id/row_post_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textColor="@color/black"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            />
+        <TextView
+            android:id="@+id/row_post_user_name"
+            android:textSize="20sp"
+            android:textColor="@color/grey"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
